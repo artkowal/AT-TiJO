@@ -1,0 +1,30 @@
+# Ignorowanie wirtualnego środowiska
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Ignorowanie plików PyCharm
+.idea/
+
+# Ignorowanie plików kompilowanych przez Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorowanie logów i plików tymczasowych
+*.log
+*.tmp
+*.swp
+
+# Ignorowanie wyników testów
+.coverage
+.tox/
+.nox/
+pytest_cache/
+junitxml/
+
+# Ignorowanie plików konfiguracyjnych systemowych
+.DS_Store
+Thumbs.db
