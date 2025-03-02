@@ -6,7 +6,7 @@ env/
 *.env
 
 # Ignorowanie plików PyCharm
-.idea/
+.idea
 
 # Ignorowanie plików kompilowanych przez Pythona
 __pycache__/
