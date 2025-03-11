@@ -1,4 +1,4 @@
-from lab02_FrameworkUnittest.src.Calc import Calc
+from lab02_frameworkUnittest.src.Calc import Calc
 import unittest
 
 class TestCalc(unittest.TestCase):
