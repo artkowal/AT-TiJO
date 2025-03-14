@@ -1,6 +1,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-# Assercja, ArrangeActAssert
+# Labolatoriun 1: _Assercja, ArrangeActAssert_
 
 ---
 

@@ -1,6 +1,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-# TDD - _Test-Driven Development_
+# Labolatoriun 3: _TDD - Test-Driven Development_
 
 ---
 

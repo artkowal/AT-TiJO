@@ -10,3 +10,4 @@ _*Software testing and quality_
 - **Lab 1** - Asercja
 - **Lab 2** - Framework *unittest*
 - **Lab 3** - TDD - *Test-Driven Development*
+- **Lab 4** - Pokrycie kodu testami
