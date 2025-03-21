@@ -11,3 +11,4 @@ _*Software testing and quality_
 - **Lab 2** - Framework *unittest*
 - **Lab 3** - TDD - *Test-Driven Development*
 - **Lab 4** - Pokrycie kodu testami
+- **Lab 5** - _SOLID_
