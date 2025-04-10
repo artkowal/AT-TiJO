@@ -13,3 +13,4 @@ _*Software testing and quality_
 - **Lab 4** - Pokrycie kodu testami
 - **Lab 5** - _SOLID_
 - **Lab 6** - **Code** _Smells_
+- **Lab 7** - Atrapy
