@@ -14,5 +14,5 @@ _*Software testing and quality_
 - **Lab 5** - _SOLID_
 - **Lab 6** - **Code** _Smells_
 - **Lab 7** - Atrapy
-- **LAB 8** - **OOP** - **O**bject-**O**riented **P**rogramming + _FlaskFigureAPP_
-- 
+- **Lab 8** - **OOP** - **O**bject-**O**riented **P**rogramming + _FlaskFigureApp_
+- **Lab 9** - Testy Manualne
