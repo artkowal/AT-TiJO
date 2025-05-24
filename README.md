@@ -17,3 +17,4 @@ _*Software testing and quality_
 - **Lab 8** - **OOP** - **O**bject-**O**riented **P**rogramming + _FlaskFigureApp_
 - **Lab 9** - Testy Manualne
 - **Lab 10** - Testy Manualne, testowanie formularzy
+- **Lab 11** - Test Case & Bug Report
